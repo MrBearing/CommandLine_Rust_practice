@@ -1,0 +1,3 @@
+[submodule "CommandLineRustCh01"]
+	path = CommandLineRustCh01
+	url = git@github.com:MrBearing/CommandLineRustCh01.git
